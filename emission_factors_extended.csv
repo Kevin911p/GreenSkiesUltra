@@ -1,0 +1,11 @@
+AircraftType,EmissionFactor_kgCO2perkm,Description
+Regional Turboprop,0.14,ATR/Q400 style regional turboprops
+Single-Aisle Jet,0.18,A320/B737 class single-aisle jets (typical short-medium)
+Single-Aisle NewGen,0.16,New-generation single-aisle (neo, MAX)
+Small Wide-Body,0.13,A330/A350 light widebody
+Large Wide-Body,0.12,B777/B787 heavy long-haul
+Long-Haul Advanced,0.10,Most efficient long-haul (A350, B787 in optimal config)
+Private Jet,0.30,Light private jets (very high per-passenger)
+Regional Jet,0.20,Regional jets (CRJ/E-Jet family)
+Commuter Turboprop,0.17,Small commuter turboprops
+High Density Short-Haul,0.21,Older short-haul aircraft with lower load efficiency

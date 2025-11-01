@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220">
+  <defs>
+    <radialGradient id="g1" cx="30%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#a8f0b1"/>
+      <stop offset="100%" stop-color="#1db954"/>
+    </radialGradient>
+    <linearGradient id="s1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#cfcfcf"/>
+      <stop offset="1" stop-color="#9a9a9a"/>
+    </linearGradient>
+  </defs>
+  <rect rx="24" ry="24" width="220" height="220" fill="#0b0f14"/>
+  <circle cx="110" cy="90" r="60" fill="url(#g1)" opacity="0.95"/>
+  <path d="M45 140 L175 90 L130 110 L130 130 L100 115 L60 160 Z" fill="url(#s1)" transform="rotate(-6 110 110)" />
+  <text x="110" y="200" font-family="Verdana" font-size="18" fill="#cfeee0" text-anchor="middle">GreenSkies</text>
+  <text x="110" y="216" font-family="Verdana" font-size="11" fill="#98a0a6" text-anchor="middle">Sustainable Flight Insights</text>
+</svg>
